@@ -1,0 +1,8 @@
+{
+  "name": "Apex Drive 3D",
+  "description": "Realistic 3D open-world car driving and racing simulator with multiple cars, dynamic weather, traffic, and tuning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
